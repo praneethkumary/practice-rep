@@ -1,0 +1,6 @@
+Project 1: Python automation script.
+Project 2: IOT based project.
+Project 3: Full Stack Application.
+Project 4: Game development (plus if involves physics simulation).
+Project 5: Scraping project.
+https://www.youtube.com/watch?v=vGxR98gI930&ab_channel=JasonGoodison
